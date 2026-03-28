@@ -2,6 +2,9 @@
 
 Dots and Boxes para Flipper Zero.
 
+<img width="512" height="256" alt="Screenshot-20260328-024634" src="https://github.com/user-attachments/assets/bc368406-4d73-46ee-8895-b7977d413c88" />
+
+
 ## Cómo jugar
 
 - Traza líneas entre los puntos
