@@ -1,2 +1,29 @@
-# flipper-galletita
+# Galletita 🍪
+
 Dots and Boxes para Flipper Zero.
+
+## Cómo jugar
+
+- Traza líneas entre los puntos
+- Quien complete un cuadro se lo lleva
+- Quien tenga más cuadros al final gana
+
+## Controles
+
+| Botón | Acción |
+|---|---|
+| `←` `→` `↑` `↓` | Mover cursor |
+| `OK` | Trazar línea |
+| `Back` | Salir |
+
+## Instalación
+
+Descarga `galletita.fap` de [Releases](../../releases) y cópialo a `/apps/Games/` en tu SD.
+
+## Compilar
+```bash
+ufbt
+```
+
+## Compatibilidad
+Probado en Momentum mntm-012 y firmware oficial 1.4.3.
